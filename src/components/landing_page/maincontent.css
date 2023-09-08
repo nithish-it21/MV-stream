@@ -1,0 +1,22 @@
+.main-content {
+    max-width: 1200px;
+    margin: 380px auto 0; /* Adjust margin-top to create space between centered container and main content */
+    padding: 40px 20px;
+  }
+  
+  .content-section {
+    margin-bottom: 40px;
+    text-align: justify;
+  }
+  
+  .content-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .content-section p {
+    font-size: 16px;
+    margin-bottom: 15px;
+    line-height: 1.5;
+  }
+  
